@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: experience | My Octopress Blog]]></title>
+  <title><![CDATA[Category: experience | 从心荡志]]></title>
   <link href="http://brucebk.github.io/blog/categories/experience/atom.xml" rel="self"/>
   <link href="http://brucebk.github.io/"/>
-  <updated>2015-04-01T09:41:23+08:00</updated>
+  <updated>2015-04-01T13:14:46+08:00</updated>
   <id>http://brucebk.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Bruce KOU]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[彷徨]]></title>
-    <link href="http://brucebk.github.io/blog/2015/04/01/pang-huang/"/>
+    <link href="http://brucebk.github.io/blog/20150401/pang-huang.html"/>
     <updated>2015-04-01T09:30:00+08:00</updated>
-    <id>http://brucebk.github.io/blog/2015/04/01/pang-huang</id>
+    <id>http://brucebk.github.io/blog/20150401/pang-huang</id>
     <content type="html"><![CDATA[<p>Keep looking, don&rsquo;t settle</p>
 ]]></content>
   </entry>
