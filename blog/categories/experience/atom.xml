@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: experience | 从心荡志]]></title>
+  <title><![CDATA[Category: experience | Bruce's blog]]></title>
   <link href="http://brucebk.github.io/blog/categories/experience/atom.xml" rel="self"/>
   <link href="http://brucebk.github.io/"/>
-  <updated>2015-04-01T14:12:22+08:00</updated>
+  <updated>2015-04-01T15:26:54+08:00</updated>
   <id>http://brucebk.github.io/</id>
   <author>
-    <name><![CDATA[Bruce KOU]]></name>
+    <name><![CDATA[Bruce Kou]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
