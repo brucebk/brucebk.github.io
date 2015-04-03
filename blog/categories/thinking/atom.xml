@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: thinking, | Bruce's blog]]></title>
+  <title><![CDATA[Category: thinking | Bruce's blog]]></title>
   <link href="http://brucebk.github.io/blog/categories/thinking/atom.xml" rel="self"/>
   <link href="http://brucebk.github.io/"/>
-  <updated>2015-04-01T15:26:54+08:00</updated>
+  <updated>2015-04-03T19:13:12+08:00</updated>
   <id>http://brucebk.github.io/</id>
   <author>
     <name><![CDATA[Bruce Kou]]></name>
@@ -14,11 +14,22 @@
 
   
   <entry>
-    <title type="html"><![CDATA[彷徨]]></title>
+    <title type="html"><![CDATA[Sample Post for Adjust Layout]]></title>
     <link href="http://brucebk.github.io/blog/20150401/pang-huang.html"/>
     <updated>2015-04-01T09:30:00+08:00</updated>
     <id>http://brucebk.github.io/blog/20150401/pang-huang</id>
-    <content type="html"><![CDATA[<p>Keep looking, don&rsquo;t settle</p>
+    <content type="html"><![CDATA[<h3>Being in the moment</h3>
+
+<blockquote><p>If we suppose that many natural phenomena are in effect computations, the study of computer science can tell us about the kinds of natural phenomena that can occur.</p></blockquote>
+
+<pre><code class="python "a simple test code snipt"">import os, sys
+def check( str ):
+    "here is some comments"
+    print "some output ", str
+    return
+# here is a comment
+check("online")
+</code></pre>
 ]]></content>
   </entry>
   
